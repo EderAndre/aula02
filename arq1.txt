@@ -1,2 +1,4 @@
 Este é o arquivo 01
+Reste é o arquivo 01
 Nova linha do arquivo 1
+Arquivo modificado para demonstrar o stash
